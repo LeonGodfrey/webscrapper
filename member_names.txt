@@ -1,0 +1,6 @@
+Name			Student Number			Registration Number
+
+Sanga Arnold  Lukoda	1900700771			19/U/0771
+Ssegawa Godfrey		1900719321			19/U/1932/PS
+Andinda Ruth		1900718852			19/U/18852/PS
+
